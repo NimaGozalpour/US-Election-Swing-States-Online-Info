@@ -5,7 +5,7 @@ In this project developed on python 3, the goal is to collect data of the swing 
 
 For running this code, you must download CNN_Approach_Malaria_Disease.ipynb on colab machine and have a google drive to save extracted information. 
 
-If you want just see results, please use this [here]{https://drive.google.com/file/d/1m2HIfdGVB5_ZdbpP41oBRPi2CmwesHFP/view?usp=sharing}. It is updated every 2 minutes.
+If you want just see results, please use this [here](https://drive.google.com/file/d/1m2HIfdGVB5_ZdbpP41oBRPi2CmwesHFP/view?usp=sharing). It is updated every 2 minutes.
 
 ### Prerequisites
 
